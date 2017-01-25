@@ -1,4 +1,4 @@
-# RecipeBook
+# Angular 2 RecipeBook
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
 
@@ -25,6 +25,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Deploying to Github Pages
 
 Run `ng github-pages:deploy` to deploy to Github Pages.
+
+## Demo
+
+https://eltonwhybrow.github.io/
 
 ## Further help
 
