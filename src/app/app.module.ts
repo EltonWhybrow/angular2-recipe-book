@@ -14,14 +14,14 @@ import { CoreModule } from './core.module' /*splitting out modules only used in 
   declarations: [
     AppComponent,
     HeaderComponent
-    ],
+  ],
   imports: [
     BrowserModule,
     HttpModule,
     routing,
     CoreModule
-    ],
+  ],
   providers: [ShoppingListService, RecipeService],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule { }
